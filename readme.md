@@ -7,6 +7,8 @@ This project was developed for the Object-Oriented Programming module and demons
 
 ### 🎥 Demo Video
 
+![App Screenshot](dj.jpg)
+
 [Video](https://youtu.be/vC2NXYRrknU)
 
 ---
